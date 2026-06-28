@@ -1,0 +1,33 @@
+Kabamo Digital
+Copyright 2026 Urs Gehrig
+
+This product includes software developed by Urs Gehrig
+(https://github.com/ursgehrig).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+---------------------------------------------------------------------
+Acknowledgements & context
+
+This project originated as a continuation of a group case study
+("Kabamo") for the module Supply Chain Management in Health Care
+(SCMHC), MBA International Health, Swiss TPH. The country "Kabamo" is
+fictional. The sleeping-space / mattress enumeration approach that
+informs the demand register follows published field method (the
+"Senegal approach").
+
+The accompanying USSD demonstrator is a prototype. It is NOT a
+production system. Any real deployment that collects household data
+requires an appropriate legal basis, a named data controller/custodian,
+informed consent, and purpose limitation under the applicable data
+protection law (e.g. Tanzania PDPA 2022, GDPR-derived obligations).
